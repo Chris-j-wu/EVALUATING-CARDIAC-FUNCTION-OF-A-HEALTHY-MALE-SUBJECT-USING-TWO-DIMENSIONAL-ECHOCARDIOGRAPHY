@@ -1,1 +1,1 @@
-# EVALUATING-CARDIAC-FUNCTION-OF-A-HEALTHY-MALE-SUBJECT-USING-TWO-DIMENSIONAL-ECHOCARDIOGRAPHY
+Please make sure to have everything (including the mp4 video files) in the working directory before running the script. 
